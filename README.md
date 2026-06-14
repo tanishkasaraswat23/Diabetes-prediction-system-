@@ -57,3 +57,7 @@ Diabetes is one of the most common chronic diseases worldwide. Early detection c
 | Train/Test Split | 80% / 20% |
 
 ## 📁 Project Structure
+
+- **app.py** → Main Streamlit application
+- **requirements.txt** → Required libraries
+- **README.md** → Project documentation
