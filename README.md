@@ -61,3 +61,57 @@ Diabetes is one of the most common chronic diseases worldwide. Early detection c
 - **app.py** → Main Streamlit application
 - **requirements.txt** → Required libraries
 - **README.md** → Project documentation
+## ⚙️ Installation & Setup
+
+**1. Clone the repository:**
+```bash
+git clone https://github.com/tanishkasaraswat23/Diabetes-prediction-system-.git
+```
+
+**2. Install required libraries:**
+```bash
+pip install -r requirements.txt
+```
+
+**3. Run the application:**
+```bash
+streamlit run app.py
+```
+
+## 🚀 How To Use
+
+1. Enter your **personal details** (name, age, gender)
+2. Enter your **height and weight** → BMI auto-calculates
+3. Enter your **medical details** (glucose, blood pressure, etc.)
+4. Click **"Predict Diabetes Risk"** button
+5. View your **personalized report** with health tips!
+
+## 📈 BMI Categories
+
+| BMI Range | Category |
+|-----------|----------|
+| Below 18.5 | Underweight 🔵 |
+| 18.5 - 24.9 | Normal Weight 🟢 |
+| 25.0 - 29.9 | Overweight 🟡 |
+| 30.0 and above | Obese 🔴 |
+
+## 🎓 Learning Outcomes
+
+Through this project, I learned:
+- End-to-end Machine Learning pipeline development
+- Data preprocessing and feature scaling
+- Logistic Regression for classification problems
+- Building interactive web apps with Streamlit
+- Version control with Git and GitHub
+
+## 👩‍💻 Author
+
+**Tanishka Saraswat**
+B.Tech AI & ML @ Aravali College of Engineering & Management
+GitHub: [@tanishkasaraswat23](https://github.com/tanishkasaraswat23)
+
+## ⚠️ Disclaimer
+
+This application is for **educational purposes only**.
+It is not a substitute for professional medical advice.
+Always consult a qualified doctor for medical diagnosis.
