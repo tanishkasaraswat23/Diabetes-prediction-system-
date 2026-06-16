@@ -107,7 +107,7 @@ Through this project, I learned:
 ## 👩‍💻 Author
 
 **Tanishka Saraswat**
-B.Tech AI & ML @ Aravali College of Engineering & Management
+B.Tech AI & ML student 
 GitHub: [@tanishkasaraswat23](https://github.com/tanishkasaraswat23)
 
 ## ⚠️ Disclaimer
