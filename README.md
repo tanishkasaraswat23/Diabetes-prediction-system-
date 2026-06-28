@@ -101,6 +101,7 @@ Through this project, I learned:
 **Tanishka Saraswat**
 B.Tech AI & ML Student
 GitHub: [@tanishkasaraswat23](https://github.com/tanishkasaraswat23)
+Linkedin:LinkedIn:www.linkedin.com/in/ tanishka-saraswat
 
 ## ⚠️ Disclaimer
 
