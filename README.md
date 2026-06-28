@@ -103,7 +103,7 @@ B.Tech AI & ML Student
 
 GitHub: [@tanishkasaraswat23](https://github.com/tanishkasaraswat23)
 
-Linkedin:LinkedIn:www.linkedin.com/in/ tanishka-saraswat
+Linkedin:www.linkedin.com/in/ tanishka-saraswat
 
 ## ⚠️ Disclaimer
 
